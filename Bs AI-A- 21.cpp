@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+system('cls');
 int main() 
 {
     int inven[5] = {9, 5, 15, 60, 8};
